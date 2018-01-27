@@ -1,0 +1,16 @@
+D:\ovi\Lab3Task\ContactStart\bin\Debug\ContactStart.exe.config
+D:\ovi\Lab3Task\ContactStart\bin\Debug\ContactStart.exe
+D:\ovi\Lab3Task\ContactStart\bin\Debug\ContactStart.pdb
+D:\ovi\Lab3Task\ContactStart\bin\Debug\ContactUserDefined.dll
+D:\ovi\Lab3Task\ContactStart\bin\Debug\ContactUserDefined.pdb
+D:\ovi\Lab3Task\ContactStart\obj\Debug\ContactStart.csprojResolveAssemblyReference.cache
+D:\ovi\Lab3Task\ContactStart\obj\Debug\ContactStart.exe
+D:\ovi\Lab3Task\ContactStart\obj\Debug\ContactStart.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\bin\Debug\ContactStart.exe.config
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\obj\Debug\ContactStart.exe
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\obj\Debug\ContactStart.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\bin\Debug\ContactStart.exe
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\bin\Debug\ContactStart.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\bin\Debug\ContactUserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\bin\Debug\ContactUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactStart\obj\Debug\ContactStart.csprojResolveAssemblyReference.cache

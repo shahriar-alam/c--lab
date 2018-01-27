@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\sharpHell\firstLabClass\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\student\Desktop\sharpHell\firstLabClass\Lab2\bin\Debug\Lab2.exe
+C:\Users\student\Desktop\sharpHell\firstLabClass\Lab2\bin\Debug\Lab2.pdb
+C:\Users\student\Desktop\sharpHell\firstLabClass\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\sharpHell\firstLabClass\Lab2\obj\Debug\Lab2.exe
+C:\Users\student\Desktop\sharpHell\firstLabClass\Lab2\obj\Debug\Lab2.pdb

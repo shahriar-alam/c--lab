@@ -1,0 +1,9 @@
+E:\Codes\C#\Projects\LabAssignment2\Registration\bin\Debug\Registration.exe.config
+E:\Codes\C#\Projects\LabAssignment2\Registration\bin\Debug\Registration.exe
+E:\Codes\C#\Projects\LabAssignment2\Registration\bin\Debug\Registration.pdb
+E:\Codes\C#\Projects\LabAssignment2\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+E:\Codes\C#\Projects\LabAssignment2\Registration\obj\Debug\Registration.Form1.resources
+E:\Codes\C#\Projects\LabAssignment2\Registration\obj\Debug\Registration.Properties.Resources.resources
+E:\Codes\C#\Projects\LabAssignment2\Registration\obj\Debug\Registration.csproj.GenerateResource.Cache
+E:\Codes\C#\Projects\LabAssignment2\Registration\obj\Debug\Registration.exe
+E:\Codes\C#\Projects\LabAssignment2\Registration\obj\Debug\Registration.pdb

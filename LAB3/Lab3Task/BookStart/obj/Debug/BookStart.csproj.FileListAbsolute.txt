@@ -1,0 +1,16 @@
+D:\ovi\Lab3Task\BookStart\bin\Debug\BookStart.exe.config
+D:\ovi\Lab3Task\BookStart\bin\Debug\BookStart.exe
+D:\ovi\Lab3Task\BookStart\bin\Debug\BookStart.pdb
+D:\ovi\Lab3Task\BookStart\bin\Debug\BookUserDefined.dll
+D:\ovi\Lab3Task\BookStart\bin\Debug\BookUserDefined.pdb
+D:\ovi\Lab3Task\BookStart\obj\Debug\BookStart.csprojResolveAssemblyReference.cache
+D:\ovi\Lab3Task\BookStart\obj\Debug\BookStart.exe
+D:\ovi\Lab3Task\BookStart\obj\Debug\BookStart.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\bin\Debug\BookStart.exe.config
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\bin\Debug\BookStart.exe
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\bin\Debug\BookStart.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\bin\Debug\BookUserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\bin\Debug\BookUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\obj\Debug\BookStart.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\obj\Debug\BookStart.exe
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookStart\obj\Debug\BookStart.pdb

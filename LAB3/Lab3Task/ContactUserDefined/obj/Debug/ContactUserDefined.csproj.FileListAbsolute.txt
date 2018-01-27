@@ -1,0 +1,9 @@
+D:\ovi\Lab3Task\ContactUserDefined\bin\Debug\ContactUserDefined.dll
+D:\ovi\Lab3Task\ContactUserDefined\bin\Debug\ContactUserDefined.pdb
+D:\ovi\Lab3Task\ContactUserDefined\obj\Debug\ContactUserDefined.dll
+D:\ovi\Lab3Task\ContactUserDefined\obj\Debug\ContactUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactUserDefined\bin\Debug\ContactUserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactUserDefined\bin\Debug\ContactUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactUserDefined\obj\Debug\ContactUserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactUserDefined\obj\Debug\ContactUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\ContactUserDefined\obj\Debug\ContactUserDefined.csprojResolveAssemblyReference.cache

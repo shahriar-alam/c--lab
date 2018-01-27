@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\C# test\LabTask\MyInfo\bin\Debug\MyInfo.exe.config
+C:\Users\student\Desktop\C# test\LabTask\MyInfo\bin\Debug\MyInfo.exe
+C:\Users\student\Desktop\C# test\LabTask\MyInfo\bin\Debug\MyInfo.pdb
+C:\Users\student\Desktop\C# test\LabTask\MyInfo\obj\Debug\MyInfo.exe
+C:\Users\student\Desktop\C# test\LabTask\MyInfo\obj\Debug\MyInfo.pdb

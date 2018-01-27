@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\bin\Debug\ParseUIDesign.exe.config
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\bin\Debug\ParseUIDesign.exe
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\bin\Debug\ParseUIDesign.pdb
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\bin\Debug\ParseUIDesign.xml
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\obj\Debug\ParseUIDesign.Resources.resources
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\obj\Debug\ParseUIDesign.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\obj\Debug\ParseUIDesign.exe
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\obj\Debug\ParseUIDesign.xml
+C:\Users\student\Desktop\New folder\UIFirst\ParseUIDesign\obj\Debug\ParseUIDesign.pdb

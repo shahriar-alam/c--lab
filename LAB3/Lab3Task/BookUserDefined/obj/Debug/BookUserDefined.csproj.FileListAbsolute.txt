@@ -1,0 +1,9 @@
+D:\ovi\Lab3Task\BookUserDefined\bin\Debug\BookUserDefined.dll
+D:\ovi\Lab3Task\BookUserDefined\bin\Debug\BookUserDefined.pdb
+D:\ovi\Lab3Task\BookUserDefined\obj\Debug\BookUserDefined.csprojResolveAssemblyReference.cache
+D:\ovi\Lab3Task\BookUserDefined\obj\Debug\BookUserDefined.dll
+D:\ovi\Lab3Task\BookUserDefined\obj\Debug\BookUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookUserDefined\bin\Debug\BookUserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookUserDefined\bin\Debug\BookUserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookUserDefined\obj\Debug\BookUserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\BookUserDefined\obj\Debug\BookUserDefined.pdb

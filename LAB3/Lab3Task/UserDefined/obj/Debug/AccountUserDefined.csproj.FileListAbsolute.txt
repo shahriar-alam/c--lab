@@ -1,0 +1,8 @@
+D:\ovi\Lab3Task\UserDefined\bin\Debug\UserDefined.dll
+D:\ovi\Lab3Task\UserDefined\bin\Debug\UserDefined.pdb
+D:\ovi\Lab3Task\UserDefined\obj\Debug\UserDefined.dll
+D:\ovi\Lab3Task\UserDefined\obj\Debug\UserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\UserDefined\bin\Debug\UserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\UserDefined\bin\Debug\UserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\UserDefined\obj\Debug\UserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\UserDefined\obj\Debug\UserDefined.pdb

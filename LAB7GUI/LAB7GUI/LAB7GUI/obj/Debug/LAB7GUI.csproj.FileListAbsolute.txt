@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\bin\Debug\LAB7GUI.exe.config
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\bin\Debug\LAB7GUI.exe
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\bin\Debug\LAB7GUI.pdb
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.Form1.resources
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.exe
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.pdb
+c:\users\student\documents\visual studio 2012\Projects\LAB7GUI\LAB7GUI\obj\Debug\LAB7GUI.Form2.resources

@@ -1,0 +1,16 @@
+D:\ovi\Lab3Task\Start\bin\Debug\Start.exe.config
+D:\ovi\Lab3Task\Start\bin\Debug\Start.exe
+D:\ovi\Lab3Task\Start\bin\Debug\Start.pdb
+D:\ovi\Lab3Task\Start\bin\Debug\UserDefined.dll
+D:\ovi\Lab3Task\Start\bin\Debug\UserDefined.pdb
+D:\ovi\Lab3Task\Start\obj\Debug\AccountStart.csprojResolveAssemblyReference.cache
+D:\ovi\Lab3Task\Start\obj\Debug\Start.exe
+D:\ovi\Lab3Task\Start\obj\Debug\Start.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\bin\Debug\Start.exe.config
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\bin\Debug\Start.exe
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\bin\Debug\Start.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\bin\Debug\UserDefined.dll
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\bin\Debug\UserDefined.pdb
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\obj\Debug\AccountStart.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\obj\Debug\Start.exe
+E:\Downloads\Compressed\15-30130-2_2\Lab3Task\Start\obj\Debug\Start.pdb

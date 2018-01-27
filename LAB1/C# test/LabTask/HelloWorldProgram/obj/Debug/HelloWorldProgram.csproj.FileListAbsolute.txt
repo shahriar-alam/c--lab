@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C# test\LabTask\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe.config
+C:\Users\student\Desktop\C# test\LabTask\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe
+C:\Users\student\Desktop\C# test\LabTask\HelloWorldProgram\bin\Debug\HelloWorldProgram.pdb
+C:\Users\student\Desktop\C# test\LabTask\HelloWorldProgram\obj\Debug\HelloWorldProgram.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# test\LabTask\HelloWorldProgram\obj\Debug\HelloWorldProgram.exe
+C:\Users\student\Desktop\C# test\LabTask\HelloWorldProgram\obj\Debug\HelloWorldProgram.pdb

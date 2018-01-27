@@ -1,0 +1,8 @@
+D:\ovi\Lab3Task\Start\bin\Debug\Start.exe.config
+D:\ovi\Lab3Task\Start\bin\Debug\Start.exe
+D:\ovi\Lab3Task\Start\bin\Debug\Start.pdb
+D:\ovi\Lab3Task\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+D:\ovi\Lab3Task\Start\obj\Debug\Start.exe
+D:\ovi\Lab3Task\Start\obj\Debug\Start.pdb
+D:\ovi\Lab3Task\Start\bin\Debug\UserDefined.dll
+D:\ovi\Lab3Task\Start\bin\Debug\UserDefined.pdb
